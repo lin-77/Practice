@@ -3,4 +3,8 @@
     height: 500px;
     background: #eeeeee;
     margin: 0 auto;
+    color:blue;
+}
+p{
+    color:red;
 }
