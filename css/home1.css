@@ -6,5 +6,9 @@
     color:blue;
 }
 p{
+    text-align: center;
     color:red;
+}
+.form{
+    text-align: center;
 }
