@@ -1,0 +1,17 @@
+{
+  "name": "gitTest_day15",
+  "version": "1.0.0",
+  "description": "点我！！！\r 读我！！！\r 看我！！！\r 更新！！！\r 更新啊啊啊！！！\r 远程仓库有更新的！！！\r 本地更新！！！\r dev分支！！！",
+  "main": "index.js",
+  "dependencies": {
+    "jquery": "^3.4.1",
+    "sass": "^1.23.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
